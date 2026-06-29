@@ -52,7 +52,7 @@ Returned to individual contributor role following a company-wide restructuring t
 - Contributed to resource planning and roadmap discussions, determining QA staffing allocation across product teams under ongoing resource constraints
 - Navigated complex internal approval processes for tooling and infrastructure purchases; collaborated with peer managers to address shared vCenter resource bottlenecks
 - Organized and produced content for Tanium's annual "Dev Week" all-engineering conference for two consecutive years, coordinating three full days of sessions each year
-- Participated in recruiting and hiring; helped grow the North American QA team to 28 engineers
+- Participated in recruiting and hiring; helped grow the North American QA team to 25 engineers
 
 ---
 
