@@ -26,7 +26,7 @@ Experienced, versatile Software Engineer with most of my career spent in Quality
 
 **Senior Quality Assurance Engineer | March 2024 – June 2026**
 
-Returned to individual contributor role following a company-wide restructuring that eliminated the QA Manager layer; received annual raises throughout entire tenure, including during management years.
+Returned to individual contributor role following a company-wide restructuring that eliminated the QA Manager layer.
 
 - One of four Senior QA Engineers responsible for Tanium Comply, an enterprise compliance and vulnerability scanning product validating endpoint configurations against frameworks such as CIS benchmarks, using scan engines including Joval, CIS-CAT, and SCC — requiring validation across both the web UI and client code running on managed endpoints
 - Led the test effort for a major codebase rewrite; identified and documented a high volume of UI, filtering, and data migration defects
