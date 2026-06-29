@@ -2,7 +2,7 @@
 **Senior QA Engineer**  
 Wake Forest, North Carolina  
 karl.shultz@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/kshultzCB)
+[LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/krshultz)
 
 ---
 
