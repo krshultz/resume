@@ -2,13 +2,17 @@
 **Senior QA Engineer**  
 Wake Forest, North Carolina  
 karl.shultz@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/krshultz)
+[LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/kshultzCB)
 
 ---
 
 ## Summary
 
-Experienced, versatile Software Engineer with most of my career spent in Quality Assurance. I believe that clever automation and well-thought-out manual testing are both important. I'm an advocate for shifting left, writing things down, and — most importantly — for users.
+If you know a QA Engineer who finds things other people miss, I am that QA Engineer.
+
+I'm an experienced, versatile Software Engineer who has spent most of my career in Quality Assurance — across enterprise systems management, open source infrastructure, and compliance products. I believe that clever automation and well-thought-out manual testing are both important, and I know when to use each.
+
+More recently, I've developed a practice of AI-assisted testing using Claude, building custom skills that monitor logs across distributed systems, ride shotgun during manual test execution, and instrument complex workflows end-to-end. It's made me a more effective tester, and I've found more bugs because of it.
 
 ---
 
