@@ -26,7 +26,7 @@ More recently, I've developed a practice of AI-assisted testing using Claude, bu
 
 ## Experience
 
-### Tanium *(6 years)*
+### Tanium *(July 2020 – June 2026)*
 
 **Senior Quality Assurance Engineer | March 2024 – June 2026**
 
@@ -72,10 +72,9 @@ Returned to an individual contributor role following a company-wide restructurin
 
 ---
 
-### CloudBees *(4 years)*
+### CloudBees
 
-**Senior Software Engineer | August 2016 – July 2020**  
-*Raleigh-Durham, North Carolina*
+**Senior Software Engineer | August 2016 – July 2020**
 
 Focused primarily on open source Jenkins, with an emphasis on the Pipeline suite and plugins integrating with modern SCMs such as GitHub and Bitbucket.
 
@@ -90,8 +89,7 @@ Focused primarily on open source Jenkins, with an emphasis on the Pipeline suite
 
 ### TOSHIBA Global Commerce Solutions
 
-**Software Engineer and Test Lead | July 2014 – August 2016**  
-*Research Triangle Park, NC*
+**Software Engineer and Test Lead | July 2014 – August 2016**
 
 Provided technical direction for a team of five QA Engineers across North Carolina and Guadalajara, Mexico, working in a fast-moving, customer-driven Agile environment.
 
@@ -104,8 +102,7 @@ Provided technical direction for a team of five QA Engineers across North Caroli
 
 ### NetApp
 
-**QA Engineer | August 2010 – July 2014**  
-*Research Triangle Park, NC*
+**QA Engineer | August 2010 – July 2014**
 
 - Prototyped automated Selenium test cases in Java for SAN workflows in NetApp's OnCommand System Manager
 - Developed a cross-organizational test plan for bringing OnCommand storage management tools into the SAN functional QA organization
@@ -127,25 +124,22 @@ Provided technical direction for a team of five QA Engineers across North Caroli
 
 ---
 
-### IBM *(8 years 6 months)*
+### IBM *(January 2000 – June 2008)*
 
-**Software Engineer | June 2006 – June 2008**  
-*Research Triangle Park, NC*
+**Software Engineer | June 2006 – June 2008**
 
 - Ensured correct installation, function, and performance of SUSE Enterprise Linux Server on four System x server models across development, test, and customer environments
 - Authored install instructions for IBM hardware test teams; debugged and tracked issues with Novell via Bugzilla and CMVC
 - Led a team tasked with defining and implementing automatic Linux device driver installation across multiple installed kernels
 
-**Software Engineer | January 2002 – June 2006**  
-*Research Triangle Park, NC*
+**Software Engineer | January 2002 – June 2006**
 
 - Designed and implemented a Performance and Scalability Test Plan for IBM Director 5.1 using a test bed of 40 real managed objects plus software simulating several hundred additional managed objects per node
 - Overhauled UI test cases, shifting focus to shared components used throughout the product, resulting in faster defect discovery and a more consistent user interface
 - Conducted a competitive analysis assessment of HP Systems Insight Manager
 - Installed and maintained an iSeries server used by multiple test and development teams worldwide
 
-**Staff Software Engineer | January 2000 – January 2002**  
-*Research Triangle Park, NC*
+**Staff Software Engineer | January 2000 – January 2002**
 
 - Product lead for a caching proxy appliance server; developed the preload image and ran detailed performance benchmarks using the Web Polygraph suite
 - Performed manufacturing readiness testing and "out of box" demos for IBM sales executives
