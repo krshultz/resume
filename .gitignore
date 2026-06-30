@@ -1,1 +1,4 @@
 resume.html
+*.pdf
+.venv/
+.DS_Store
