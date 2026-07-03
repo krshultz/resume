@@ -8,9 +8,9 @@ karl.shultz@gmail.com
 
 ## Summary
 
-If you know a QA Engineer who finds things other people miss, I am that QA Engineer.
+If you're looking for a QA Engineer who finds things other people miss, I am that QA Engineer.
 
-I'm an experienced, versatile Software Engineer who has spent most of my career in Quality Assurance — across enterprise systems management, open source infrastructure, and enterprise cybersecurity products. I believe that clever automation and well-thought-out manual testing are both important, and I know when to use each.
+I'm an experienced, versatile Software Engineer who has spent most of my career in Quality Assurance — across enterprise systems management, open source infrastructure, and enterprise cybersecurity products. I believe that clever automation and well-thought-out manual testing are both important.  And I know when to use each.
 
 More recently, I've developed a practice of AI-assisted testing using Claude, building custom skills that monitor logs across distributed systems, ride shotgun during manual test execution, and instrument complex workflows end-to-end. It's made me a more effective tester, and I've found more bugs because of it.
 
