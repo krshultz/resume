@@ -1,7 +1,7 @@
 # Karl Shultz
-**Senior QA Engineer**
-Wake Forest, North Carolina
-karl.shultz@gmail.com
+**Senior QA Engineer**  
+Wake Forest, North Carolina  
+karl.shultz@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/kshultzCB)
 
 ---
@@ -10,7 +10,7 @@ karl.shultz@gmail.com
 
 If you're looking for a QA Engineer who finds things other people miss, I am that QA Engineer.
 
-I'm an experienced, versatile Software Engineer who has spent most of my career in Quality Assurance — building automation frameworks from scratch, owning end-to-end quality validation for complex, regulated products, and mentoring the next generation of QA engineers. I've built browser-based automated regression suites, API test coverage, and CI/CD-integrated pipelines across enterprise cybersecurity, open source infrastructure, and systems management products. I know when clever automation is the right tool and when careful manual and exploratory testing is — and I've built my career on knowing the difference.
+I'm an experienced, versatile Software Engineer who has spent most of my career in Quality Assurance, building automation frameworks from scratch, owning end-to-end quality validation for complex products, and mentoring the next generation of QA engineers. I've built browser-based automated regression suites, API test coverage, and CI/CD-integrated pipelines across enterprise cybersecurity, open source infrastructure, and systems management products. I know when clever automation is the right tool and when careful manual and exploratory testing is. And I've built my career on knowing the difference.
 
 More recently, I've developed a practice of AI-assisted testing using Claude, building custom skills that monitor logs across distributed systems, ride shotgun during manual test execution, and instrument complex workflows end-to-end. It's made me a more effective tester, and I've found more bugs because of it.
 
@@ -34,7 +34,7 @@ Finally, kitten.
 
 Returned to an individual contributor role following a company-wide restructuring that eliminated the QA Manager layer.
 
-- One of four Senior QA Engineers responsible for Tanium Comply, an enterprise compliance and vulnerability scanning product validating endpoint configurations against frameworks such as CIS benchmarks — owning end-to-end quality validation across both the web UI and client code running on managed endpoints
+- One of four Senior QA Engineers responsible for Tanium Comply, an enterprise compliance and vulnerability scanning product validating endpoint configurations against frameworks such as CIS benchmarks. Owned end-to-end quality validation across both the web UI and client code running on managed endpoints
 - Led the test effort for a major codebase rewrite; identified and documented a high volume of UI, filtering, and data migration defects ahead of release
 - Consistently the highest bug-opener on the team by a significant margin; received two consecutive years of glowing peer feedback
 - Designed and built a suite of Claude AI skills to augment manual and exploratory testing and extend automated coverage:
@@ -51,7 +51,7 @@ Returned to an individual contributor role following a company-wide restructurin
 **QA Engineering Manager | November 2021 – March 2024**
 
 - Managed 8 direct reports embedded across approximately 6 concurrent product teams, providing technical direction, career development, and day-to-day mentorship in a consistently understaffed organization
-- Led cross-organizational initiatives requiring rapid alignment across engineering, QA, and product — including transitioning from ad-hoc, team-by-team release practices to a structured semi-annual **release readiness process**
+- Led cross-organizational initiatives requiring rapid alignment across engineering, QA, and product, including transitioning from ad-hoc, team-by-team release practices to a structured semi-annual **release readiness process**
 - Co-authored the job description for the company's first-ever Staff QA Engineer role, defining criteria and expectations for a level that had not previously existed
 - Contributed to resource planning and roadmap discussions, determining QA staffing allocation under ongoing resource constraints
 - Participated in recruiting and hiring; helped grow the QA organization from a single team to 25 engineers across two continents
@@ -61,11 +61,11 @@ Returned to an individual contributor role following a company-wide restructurin
 **Senior Quality Assurance Engineer | July 2020 – November 2021**
 
 - **Built QA engineering processes and automation frameworks from scratch** across two products used to manage and secure endpoints across a wide range of operating systems
-- Developed **TestCafe automation for a browser-based automated regression/smoke test suite running at build time** — integrated into CI so failures blocked release
+- Developed **TestCafe automation for a browser-based automated regression/smoke test suite running at build time**, integrated into CI so failures blocked release
 - Built internal tooling to automate Jira state transitions based on pull request activity, streamlining the deployment workflow
 - Contributed build pipeline improvements to speed up builds and enable more flexible testing configurations
 - Co-authored a formal release process including go/no-go requirements and QA sign-off criteria
-- Maintained a high throughput rate — over 250 bugs and improvements opened in just over a year, with a >70% take rate
+- Maintained a high throughput rate: over 250 bugs and improvements opened in just over a year, with a >70% take rate
 
 ---
 
