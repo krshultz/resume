@@ -36,10 +36,10 @@ Returned to an individual contributor role following a company-wide restructurin
 - Led the test effort for a major codebase rewrite; identified and documented a high volume of UI, filtering, and data migration defects
 - Consistently the highest bug-opener on the team by a significant margin; received two consecutive years of glowing peer feedback
 - Designed and built a suite of Claude AI skills to augment manual and exploratory testing:
-  - **Upgrade Monitor**: Tracked Tanium Comply upgrades via SSH across managed devices, normalizing log output across time zones and formats to produce a structured before/after comparison of endpoint data
-  - **Test Ride-Along**: Read test cases from Jira XRay and made suggestions for ways to approach the test case, based on reading the Comply source code's changes for a given fix or feature
-  - **Assessment Timeline**: Instrumented active Comply scans end-to-end, tracking intel delivery to endpoints and diagnosing scan failures across multiple scan types (Remote Authenticated, Compliance, Vulnerability) and engines
-  - **Daily Work Log**: Built a structured end-of-day capture of testing activity, giving me a reviewable record to consolidate a high volume of new information and reinforce traceability
+    - **Upgrade Monitor**: Tracked Tanium Comply upgrades via SSH across managed devices, normalizing log output across time zones and formats to produce a structured before/after comparison of endpoint data
+    - **Test Ride-Along**: Read test cases from Jira XRay and made suggestions for ways to approach the test case, based on reading the Comply source code's changes for a given fix or feature
+    - **Assessment Timeline**: Instrumented active Comply scans end-to-end, tracking intel delivery to endpoints and diagnosing scan failures across multiple scan types (Remote Authenticated, Compqliance, Vulnerability) and engines
+    - **Daily Work Log**: Built a structured end-of-day capture of testing activity, giving me a reviewable record to consolidate a high volume of new information and reinforce traceability
 - Identified more AI-assisted defects than any other team member; developed a practice of following up on incidental Claude observations that consistently surfaced issues that would otherwise have been missed
 - Contributed automated API tests in Python for uploading and validating CIS-CAT and SCC scan engines into Comply
 - Maintained discipline around AI tool reliability, actively monitoring for deviation from established skill rules during testing sessions
