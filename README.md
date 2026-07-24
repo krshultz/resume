@@ -49,7 +49,8 @@ Returned to an individual contributor role following a company-wide restructurin
 
 **QA Engineering Manager | November 2021 – March 2024**
 
-- Managed 8 direct reports embedded across approximately 6 concurrent product teams, providing technical direction, career development, and day-to-day support in a consistently understaffed organization
+Managed 8 direct reports embedded across approximately 6 concurrent product teams, providing technical direction, career development, and day-to-day support in a consistently understaffed organization
+
 - Led cross-organizational initiatives requiring rapid alignment across engineering, QA, and product — including contributing to the transition from ad-hoc, team-by-team release practices to a structured semi-annual bundle release process
 - Partnered with direct reports to align assignments with individual skills, interests, and growth goals, shaping career trajectories across the team
 - Co-authored the job description for Tanium's first-ever Staff QA Engineer role, defining criteria and expectations for a level that had not previously existed at the company
@@ -62,7 +63,8 @@ Returned to an individual contributor role following a company-wide restructurin
 
 **Senior Quality Assurance Engineer | July 2020 – November 2021**
 
-- Built QA Engineering procedures from scratch across two different products used to manage and secure endpoints across a wide range of operating systems
+Built QA Engineering procedures from scratch for Tanium Enforce, validating Windows policy enforcement — including registry settings, BitLocker, and AppLocker settings.
+
 - Developed TestCafe automation for use as a browser-based automated smoke test suite running at build time
 - Built internal tooling to automate Jira state transitions based on pull request activity, improving deployment workflows
 - Contributed build pipeline improvements to speed up builds and enable more flexible testing configurations
