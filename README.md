@@ -18,7 +18,7 @@ More recently, I've developed a practice of AI-assisted testing using Claude, bu
 
 ## Skills
 
-**Technologies:** Python, Selenium, TestCafe, Groovy, Java, Bash, PowerShell, REST API testing, Jira, Jira XRay, Jenkins, Docker, Git, VMWare, Hyper-V
+**Technologies:** Python, Selenium, TestCafe, Groovy, Java, Bash, PowerShell, SQL, REST API testing, Jira, Jira XRay, Jenkins, Docker, Git and GitHub, VMWare, Hyper-V
 
 **Methodologies:** Manual testing, automated testing, API testing, UI/browser testing, regression testing, smoke testing, usability testing, Agile
 
@@ -96,7 +96,7 @@ Focused primarily on open source Jenkins, with an emphasis on the Pipeline suite
 Provided technical direction for a team of five QA Engineers across North Carolina and Guadalajara, Mexico, working in a fast-moving, customer-driven Agile environment.
 
 - Directed test case design, execution, defect management, and status reporting for a five-person team
-- Traveled on-site to a major retail client to support rollout of a custom release of TCxGravity Link, a curbside grocery pickup solution
+- Traveled on-site to a major retail client to support rollout of a custom release of TCxGravity Link, a curbside point-of-sale (POS) grocery pickup solution
 - Executed manual, semi-automated, and automated test cases for functional, systemic, and regression testing
 - Maintained team lab infrastructure, including complex software stack integration on Windows and 4690 systems using Python, PowerShell, and Bash
 
