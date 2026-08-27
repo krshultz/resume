@@ -18,7 +18,7 @@ More recently, I've developed a practice of AI-assisted testing using Claude, bu
 
 ## Skills
 
-**Technologies:** Python, Selenium, TestCafe, Groovy, Java, Bash, PowerShell, SQL, REST API testing, Jira, Jira XRay, Jenkins, Docker, Git and GitHub, VMWare, Hyper-V
+**Technologies:** Python, Selenium, TestCafe, Groovy, Java, Bash, PowerShell, SQL, REST API testing, Postman, Bruno, Jira, Jira XRay, Jenkins, Docker, Git and GitHub, VMWare, Hyper-V
 
 **Methodologies:** Manual testing, automated testing, API testing, UI/browser testing, regression testing, smoke testing, usability testing, Agile
 
