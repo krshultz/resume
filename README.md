@@ -42,6 +42,7 @@ Returned to an individual contributor role following a company-wide restructurin
     - **Daily Work Log**: Built a structured end-of-day capture of testing activity, giving me a reviewable record to consolidate a high volume of new information and reinforce traceability
 - Identified more AI-assisted defects than any other team member; developed a practice of following up on incidental Claude observations that consistently surfaced issues that would otherwise have been missed
 - Contributed automated API tests in Python for uploading and validating CIS-CAT and SCC scan engines into Comply
+- Used Grafana observability dashboards to monitor system behavior and diagnose issues during testing
 - Maintained discipline around AI tool reliability, actively monitoring for deviation from established skill rules during testing sessions
 - Mentored newly hired Senior QA Engineers through onboarding and ramp-up
 
@@ -82,6 +83,7 @@ Focused primarily on open source Jenkins, with an emphasis on the Pipeline suite
 
 - Contributed bug fixes to Jenkins plugins including GitHub Branch Source, with automated tests validating each change
 - Created an internal CloudBees Core instance in a Kubernetes cluster to automatically build and test unreleased plugin code
+- Provisioned and maintained AWS EC2 instances for testing CloudBees Core, using AMIs to enable environment cloning
 - Built and improved Jenkins Pipeline jobs providing automated test coverage across multiple Jenkins plugins, written in Groovy and triggered conditionally by pull requests and merges
 - Contributed to an open source project for running repeatable, self-contained performance tests against Jenkins Pipeline components, including test pipelines in both Scripted and Declarative Pipeline and Docker configuration changes
 - Extended the Acceptance Test Harness for Blue Ocean with Selenium/Java tests for new UI flows, and improved existing test case reliability; occasionally made changes to Blue Ocean itself to improve testability
