@@ -18,7 +18,7 @@ More recently, I've developed a practice of AI-assisted testing using Claude, bu
 
 ## Skills
 
-**Technologies:** Python, Selenium, TestCafe, Groovy, Java, Bash, PowerShell, SQL, REST API testing, Postman, Bruno, Jira, Jira XRay, Jenkins, Docker, Git and GitHub, VMWare, Hyper-V
+**Technologies:** Python, Selenium, TestCafe, Groovy, Java, Bash, PowerShell, SQL (PostgreSQL, SQLite), REST API testing, Postman, Bruno, Jira, Jira XRay, Jenkins, Docker, Git and GitHub, VMWare, Hyper-V
 
 **Methodologies:** Manual testing, automated testing, API testing, UI/browser testing, regression testing, smoke testing, usability testing, Agile
 
@@ -32,8 +32,9 @@ More recently, I've developed a practice of AI-assisted testing using Claude, bu
 
 Returned to an individual contributor role following a company-wide restructuring that eliminated the QA Manager layer.
 
-- One of four Senior QA Engineers responsible for Tanium Comply, an enterprise compliance and vulnerability scanning product validating endpoint configurations against frameworks such as CIS benchmarks, using scan engines including Joval, CIS-CAT, and SCC — requiring validation across both the web UI and client code running on managed endpoints
+- One of four Senior QA Engineers responsible for Tanium Comply, an enterprise compliance and vulnerability scanning product validating endpoint configurations against frameworks such as CIS benchmarks, using scan engines including Joval, CIS-CAT, and SCC, requiring validation across both the web UI and client code running on managed endpoints
 - Led the test effort for a major codebase rewrite; identified and documented a high volume of UI, filtering, and data migration defects
+- Tested Tanium Comply's Remote Authenticated Scanning (RAS) feature, validating SSH key/password-based authentication and WinRM-based remote connections to Unix, Linux, and Windows endpoints; identified and documented defects in credential handling and remote authentication workflows.
 - Consistently the highest bug-opener on the team by a significant margin; received two consecutive years of glowing peer feedback
 - Designed and built a suite of Claude AI skills to augment manual and exploratory testing:
     - **Upgrade Monitor**: Tracked Tanium Comply upgrades via SSH across managed devices, normalizing log output across time zones and formats to produce a structured before/after comparison of endpoint data
@@ -41,9 +42,10 @@ Returned to an individual contributor role following a company-wide restructurin
     - **Assessment Timeline**: Instrumented active Comply scans end-to-end, tracking intel delivery to endpoints and diagnosing scan failures across multiple scan types (Remote Authenticated, Compliance, Vulnerability) and engines
     - **Daily Work Log**: Built a structured end-of-day capture of testing activity, giving me a reviewable record to consolidate a high volume of new information and reinforce traceability
 - Identified more AI-assisted defects than any other team member; developed a practice of following up on incidental Claude observations that consistently surfaced issues that would otherwise have been missed
-- Contributed automated API tests in Python for uploading and validating CIS-CAT and SCC scan engines into Comply
-- Used Grafana observability dashboards to monitor system behavior and diagnose issues during testing
+- Contributed automated API tests in Python using a pytest-based framework for uploading and validating CIS-CAT and SCC scan engines into Comply
+- Used Grafana observability dashboards to monitor system behavior and diagnose issues during testing and to help inform Go/No-Go decisions
 - Maintained discipline around AI tool reliability, actively monitoring for deviation from established skill rules during testing sessions
+- Identified inaccurate, fabricated, or unverified outputs from AI tools during testing sessions, correcting course before flawed AI-assisted conclusions were acted on: a practical form of hallucination detection applied in a live QA workflow
 - Mentored newly hired Senior QA Engineers through onboarding and ramp-up
 
 ---
