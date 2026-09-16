@@ -1,28 +1,24 @@
 # Karl Shultz
 **Senior QA Engineer**  
-Wake Forest, North Carolina  
-karl.shultz@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/kshultzCB)
-
----
+Wake Forest, North Carolina | karl.shultz@gmail.com | [LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/krshultz)
 
 ## Summary
 
-If you're looking for a QA Engineer who finds things other people miss, I am that QA Engineer.
+Senior QA Engineer with 25+ years of experience across enterprise endpoint security, CI/CD infrastructure, and storage systems. If you're looking for a QA Engineer who finds things other people miss, I am that QA Engineer.
 
-I'm an experienced, versatile Software Engineer who has spent most of my career in Quality Assurance — across enterprise systems management, open source infrastructure, and enterprise cybersecurity products. I believe that clever automation and well-thought-out manual testing are both important.  And I know when to use each.
-
-More recently, I've developed a practice of AI-assisted testing using Claude, building custom skills that monitor logs across distributed systems, ride shotgun during manual test execution, and instrument complex workflows end-to-end. It's made me a more effective tester, and I've found more bugs because of it.
-
----
+I believe that clever automation and well-thought-out manual testing are both important, and I know when to use each. More recently, I've built a practice of AI-assisted testing with custom Claude skills, and I've found more bugs because of it.
 
 ## Skills
 
-**Technologies:** Python, Selenium, TestCafe, Groovy, Java, Bash, PowerShell, SQL (PostgreSQL, SQLite), REST API testing, Postman, Bruno, Jira, Jira XRay, Jenkins, Docker, Git and GitHub, VMWare, Hyper-V
+**Languages:** Python, Java, Groovy, Bash, PowerShell, Perl, SQL (PostgreSQL, SQLite)
 
-**Methodologies:** Manual testing, automated testing, API testing, UI/browser testing, regression testing, smoke testing, usability testing, Agile
+**Test Tools:** pytest, Selenium, TestCafe, JUnit, Postman, Bruno, Jira XRay
 
----
+**CI/CD and Infrastructure:** Jenkins (Pipeline), Docker, AWS EC2, VMware, Hyper-V, Grafana, Git and GitHub, Jira
+
+**AI-Assisted Testing:** Claude, including custom skill development
+
+**Methodologies:** Manual, automated, API, UI/browser, regression, smoke, and usability testing; Agile
 
 ## Experience
 
@@ -32,141 +28,71 @@ More recently, I've developed a practice of AI-assisted testing using Claude, bu
 
 Returned to an individual contributor role following a company-wide restructuring that eliminated the QA Manager layer.
 
-- One of four Senior QA Engineers responsible for Tanium Comply, an enterprise compliance and vulnerability scanning product validating endpoint configurations against frameworks such as CIS benchmarks, using scan engines including Joval, CIS-CAT, and SCC, requiring validation across both the web UI and client code running on managed endpoints
+- One of four Senior QA Engineers on Tanium Comply, an enterprise compliance and vulnerability scanning product (CIS benchmarks; Joval, CIS-CAT, and SCC scan engines), testing both the web UI and client code on managed endpoints
 - Led the test effort for a major codebase rewrite; identified and documented a high volume of UI, filtering, and data migration defects
-- Tested Tanium Comply's Remote Authenticated Scanning (RAS) feature, validating SSH key/password-based authentication and WinRM-based remote connections to Unix, Linux, and Windows endpoints; identified and documented defects in credential handling and remote authentication workflows.
-- Consistently the highest bug-opener on the team by a significant margin; received two consecutive years of glowing peer feedback
-- Designed and built a suite of Claude AI skills to augment manual and exploratory testing:
-    - **Upgrade Monitor**: Tracked Tanium Comply upgrades via SSH across managed devices, normalizing log output across time zones and formats to produce a structured before/after comparison of endpoint data
-    - **Test Ride-Along**: Read test cases from Jira XRay and made suggestions for ways to approach the test case, based on reading the Comply source code's changes for a given fix or feature
-    - **Assessment Timeline**: Instrumented active Comply scans end-to-end, tracking intel delivery to endpoints and diagnosing scan failures across multiple scan types (Remote Authenticated, Compliance, Vulnerability) and engines
-    - **Daily Work Log**: Built a structured end-of-day capture of testing activity, giving me a reviewable record to consolidate a high volume of new information and reinforce traceability
-- Identified more AI-assisted defects than any other team member; developed a practice of following up on incidental Claude observations that consistently surfaced issues that would otherwise have been missed
-- Contributed automated API tests in Python using a pytest-based framework for uploading and validating CIS-CAT and SCC scan engines into Comply
-- Used Grafana observability dashboards to monitor system behavior and diagnose issues during testing and to help inform Go/No-Go decisions
-- Maintained discipline around AI tool reliability, actively monitoring for deviation from established skill rules during testing sessions
-- Identified inaccurate, fabricated, or unverified outputs from AI tools during testing sessions, correcting course before flawed AI-assisted conclusions were acted on: a practical form of hallucination detection applied in a live QA workflow
-- Mentored newly hired Senior QA Engineers through onboarding and ramp-up
-
----
+- Tested Remote Authenticated Scanning, validating SSH key/password and WinRM connections to Unix, Linux, and Windows endpoints; found defects in credential handling and remote authentication workflows
+- Consistently the highest bug-opener on the team by a significant margin, including more AI-assisted defects than any other team member; received two consecutive years of glowing peer feedback
+- Designed and built a suite of Claude AI skills to augment manual and exploratory testing, checking AI output for rule drift and unverified conclusions before acting on it:
+    - **Upgrade Monitor:** Tracked upgrades via SSH across devices, normalizing logs into before/after comparisons
+    - **Test Ride-Along:** Suggested test approaches from Jira XRay cases and the underlying source changes
+    - **Assessment Timeline:** Instrumented scans end-to-end, diagnosing failures across scan types and engines
+- Wrote automated API tests in Python with pytest for uploading and validating scan engines; used Grafana dashboards to diagnose issues and inform Go/No-Go decisions
 
 **QA Engineering Manager | November 2021 – March 2024**
 
-Managed 8 direct reports embedded across approximately 6 concurrent product teams, providing technical direction, career development, and day-to-day support in a consistently understaffed organization
+Managed 8 direct reports across about 6 product teams, providing technical direction and career development.
 
-- Led cross-organizational initiatives requiring rapid alignment across engineering, QA, and product — including contributing to the transition from ad-hoc, team-by-team release practices to a structured semi-annual bundle release process
-- Partnered with direct reports to align assignments with individual skills, interests, and growth goals, shaping career trajectories across the team
-- Co-authored the job description for Tanium's first-ever Staff QA Engineer role, defining criteria and expectations for a level that had not previously existed at the company
-- Contributed to resource planning and roadmap discussions, determining QA staffing allocation across product teams under ongoing resource constraints
-- Navigated complex internal approval processes for tooling and infrastructure purchases; collaborated with peer managers to address shared vCenter resource bottlenecks
-- Organized and produced content for Tanium's annual "Dev Week" all-engineering conference for two consecutive years, coordinating three full days of sessions each year
-- Participated in recruiting and hiring; helped grow the North American QA team to 25 engineers and helped launch the early stages of the Krakow, Poland QA team
-
----
+- Helped move the organization from ad-hoc, team-by-team releases to a structured semi-annual bundle release process
+- Co-authored the job description for Tanium's first Staff QA Engineer role
+- Determined QA staffing across product teams; helped grow the North American QA team to 25 engineers and launch the Krakow, Poland QA team
 
 **Senior Quality Assurance Engineer | July 2020 – November 2021**
 
-Built QA Engineering procedures from scratch for Tanium Enforce, validating Windows policy enforcement — including registry settings, BitLocker, and AppLocker settings.
+Built QA procedures from scratch for Tanium Enforce, validating Windows policy enforcement including registry, BitLocker, and AppLocker settings.
 
-- Developed TestCafe automation for use as a browser-based automated smoke test suite running at build time
-- Built internal tooling to automate Jira state transitions based on pull request activity, improving deployment workflows
-- Contributed build pipeline improvements to speed up builds and enable more flexible testing configurations
-- Co-authored a formal release process including go/no-go requirements and QA expectations prior to release
-- Created multiple formal Test Plans
-- Maintained a high Jira throughput rate — over 250 bugs and improvements opened in just over a year, with a >70% take rate
-
----
+- Developed a TestCafe browser-based smoke test suite running at build time
+- Built tooling to automate Jira state transitions from pull request activity, and improved build pipeline speed and flexibility
+- Co-authored a formal release process with go/no-go requirements; wrote multiple test plans
+- Opened over 250 bugs and improvements in just over a year
 
 ### CloudBees
 
 **Senior Software Engineer | August 2016 – July 2020**
 
-Focused primarily on open source Jenkins, with an emphasis on the Pipeline suite and plugins integrating with modern SCMs such as GitHub and Bitbucket.
+Open source Jenkins, focused on the Pipeline suite and GitHub/Bitbucket plugins; owned quality processes for initiatives including Declarative Pipelines.
 
-- Contributed bug fixes to Jenkins plugins including GitHub Branch Source, with automated tests validating each change
-- Created an internal CloudBees Core instance in a Kubernetes cluster to automatically build and test unreleased plugin code
-- Provisioned and maintained AWS EC2 instances for testing CloudBees Core, using AMIs to enable environment cloning
-- Built and improved Jenkins Pipeline jobs providing automated test coverage across multiple Jenkins plugins, written in Groovy and triggered conditionally by pull requests and merges
-- Contributed to an open source project for running repeatable, self-contained performance tests against Jenkins Pipeline components, including test pipelines in both Scripted and Declarative Pipeline and Docker configuration changes
-- Extended the Acceptance Test Harness for Blue Ocean with Selenium/Java tests for new UI flows, and improved existing test case reliability; occasionally made changes to Blue Ocean itself to improve testability
-- Created and oversaw comprehensive quality processes for major open source Jenkins initiatives including Declarative Pipelines, performance improvements, and new functionality
-
----
+- Contributed bug fixes with automated tests to Jenkins plugins including GitHub Branch Source
+- Built Jenkins Pipeline jobs in Groovy providing automated test coverage across multiple plugins, triggered by pull requests and merges
+- Ran CloudBees Core in a Kubernetes cluster to build and test unreleased plugin code, and maintained AWS EC2 test environments using AMIs for cloning
+- Extended the Acceptance Test Harness for Blue Ocean with Selenium/Java tests, and contributed to an open source Pipeline performance testing project using Docker
 
 ### TOSHIBA Global Commerce Solutions
 
 **Software Engineer and Test Lead | July 2014 – August 2016**
 
-Provided technical direction for a team of five QA Engineers across North Carolina and Guadalajara, Mexico, working in a fast-moving, customer-driven Agile environment.
-
-- Directed test case design, execution, defect management, and status reporting for a five-person team
-- Traveled on-site to a major retail client to support rollout of a custom release of TCxGravity Link, a curbside point-of-sale (POS) grocery pickup solution
-- Executed manual, semi-automated, and automated test cases for functional, systemic, and regression testing
-- Maintained team lab infrastructure, including complex software stack integration on Windows and 4690 systems using Python, PowerShell, and Bash
-
----
+- Directed testing for a five-person QA team across North Carolina and Guadalajara, Mexico
+- Maintained lab infrastructure integrating Windows and 4690 systems using Python, PowerShell, and Bash; supported an on-site retail client rollout
 
 ### NetApp
 
 **QA Engineer | August 2010 – July 2014**
 
-- Prototyped automated Selenium test cases in Java for SAN workflows in NetApp's OnCommand System Manager
-- Developed a cross-organizational test plan for bringing OnCommand storage management tools into the SAN functional QA organization
-- QA Release Lead for SAN components of ONTAP 8.2.1, including creation of a detailed Subteam Test Plan covering scope, schedule, ownership, and hardware requirements
-- Co-authored SnapMirror automation in Perl in a distributed Linux environment, featuring randomized standard SAN workflows
-- Led QA for SnapMirror Vault, a flagship SAN feature in ONTAP 8.2.0, covering planning, test case design, automation, execution, and maintenance
-- Coordinated skills transfer sessions to the continuing support group in India
-- Created test cases from technical design documents, peer review, and live product demos; managed in HP ALM
-
----
+- Led QA for SnapMirror Vault (ONTAP 8.2.0); QA Release Lead for SAN components of ONTAP 8.2.1
+- Co-authored SnapMirror automation in Perl; prototyped Selenium/Java tests for OnCommand
 
 ### GlaxoSmithKline (GSK)
 
 **Software Tester | April 2010 – August 2010**
 
-- Quality assurance on an AJAX-based internal web application used by GSK R&D to manage medical coding terminology in an FDA-regulated environment
-- Created, maintained, and expanded automated test cases using Selenium Remote Control; tests written in Java and run via JUnit
-- Source control via Subversion; user stories in Rally; defect tracking in Jira
+- Automated tests (Java, Selenium RC, JUnit) for an R&D web app in an FDA-regulated environment
 
----
+### IBM
 
-### IBM *(January 2000 – June 2008)*
+**Software Engineer | January 2000 – June 2008**
 
-**Software Engineer | June 2006 – June 2008**
+- Product lead for a caching proxy appliance server; designed performance and scalability testing for IBM Director 5.1; led Linux driver installation work for System x servers
 
-- Ensured correct installation, function, and performance of SUSE Enterprise Linux Server on four System x server models across development, test, and customer environments
-- Authored install instructions for IBM hardware test teams; debugged and tracked issues with Novell via Bugzilla and CMVC
-- Led a team tasked with defining and implementing automatic Linux device driver installation across multiple installed kernels
+## Education and Patents
 
-**Software Engineer | January 2002 – June 2006**
-
-- Designed and implemented a Performance and Scalability Test Plan for IBM Director 5.1 using a test bed of 40 real managed objects plus software simulating several hundred additional managed objects per node
-- Overhauled UI test cases, shifting focus to shared components used throughout the product, resulting in faster defect discovery and a more consistent user interface
-- Conducted a competitive analysis assessment of HP Systems Insight Manager
-- Installed and maintained an iSeries server used by multiple test and development teams worldwide
-
-**Staff Software Engineer | January 2000 – January 2002**
-
-- Product lead for a caching proxy appliance server; developed the preload image and ran detailed performance benchmarks using the Web Polygraph suite
-- Performed manufacturing readiness testing and "out of box" demos for IBM sales executives
-
----
-
-## Education
-
-**University of North Carolina at Chapel Hill**  
-BA, Psychology — 1995
-
----
-
-## Patents
-
-- **6,898,705** — Automatic appliance server re-provision/re-purposing method
-- **6,636,958** — Appliance server with a drive partitioning scheme that accommodates application growth in size
-
----
-
-## Certifications
-
-- Coaching Skills for Leaders and Managers
-- Manager Accelerator Program
+- **BA, Psychology:** University of North Carolina at Chapel Hill
+- **US Patents 6,898,705 and 6,636,958:** Appliance server re-provisioning and drive partitioning
