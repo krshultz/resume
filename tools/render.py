@@ -13,20 +13,20 @@ CSS = """
 @page { size: Letter; margin: 0.6in 0.7in; }
 * { box-sizing: border-box; }
 body {
-  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
-  font-size: 10.5pt; line-height: 1.4; color: #1a1a1a;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 10pt; line-height: 1.35; color: #1a1a1a;
   max-width: 7.1in; margin: 0 auto; padding: 0.4in 0;
 }
 h1 { font-size: 22pt; margin: 0 0 2pt; }
 h2 {
-  font-size: 13pt; margin: 16pt 0 6pt; padding-bottom: 2pt;
+  font-size: 13pt; margin: 12pt 0 4pt; padding-bottom: 2pt;
   border-bottom: 1.5px solid #333; break-after: avoid;
 }
-h3 { font-size: 11.5pt; margin: 12pt 0 2pt; break-after: avoid; }
+h3 { font-size: 11.5pt; margin: 9pt 0 2pt; break-after: avoid; }
 p { margin: 4pt 0; }
-ul { margin: 4pt 0 8pt; padding-left: 18px; }
+ul { margin: 3pt 0 5pt; padding-left: 18px; }
 ul ul { margin: 2pt 0; }
-li { margin: 2pt 0; break-inside: avoid; }
+li { margin: 1pt 0; break-inside: avoid; }
 a { color: #1a1a1a; text-decoration: none; }
 strong { font-weight: 600; }
 em { color: #555; }
