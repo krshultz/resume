@@ -1,6 +1,6 @@
 # Karl Shultz
 **Senior QA Engineer**  
-Wake Forest, North Carolina | karl.shultz@gmail.com | [LinkedIn](https://www.linkedin.com/in/karlshultz-9386949) | [GitHub](https://github.com/krshultz)
+Wake Forest, North Carolina | karl.shultz@gmail.com | [LinkedIn](https://www.linkedin.com/in/karl-shultz-9386949/) | [GitHub](https://github.com/krshultz)
 
 ## Summary
 
