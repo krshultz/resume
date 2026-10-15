@@ -12,7 +12,7 @@ I believe that clever automation and well-thought-out manual testing are both im
 
 **Languages:** Python, Java, Groovy, Bash, PowerShell, Perl, SQL (PostgreSQL, SQLite)
 
-**Test Tools:** pytest, Selenium, TestCafe, JUnit, Postman, Bruno, Jira XRay, Playwright (MCP)
+**Test Tools:** pytest, Selenium, TestCafe, JUnit, Postman, Bruno, Jira XRay, Playwright MCP
 
 **CI/CD and Infrastructure:** Jenkins (Pipeline), Docker, AWS EC2, VMware, Hyper-V, Grafana, Git and GitHub, Bitbucket, Jira, Linear
 
@@ -35,8 +35,8 @@ E-commerce platform for collectible card games, comics, and gaming merchandise (
 - Built Claude Code skills for exploratory testing:
     - **Park:** Captures side findings mid-test without derailing the session, then walks them through structured triage (session-based test management)
     - **Park Audit:** Read-only AI subagents check each parked finding against the source code, with every code citation script-verified at a pinned commit
-    - **Socratest:** Quizzes the tester on what a change does and how it could fail before testing begins
-- Authored the QA roadmap (test data sanitization, unit, API, and end-to-end testing, CI quality gates, process) and assessed existing unit test coverage to recommend a path forward
+    - **Socratest:** Quizzes the tester on what a change does and how it could fail before testing begins, setting expectations for the change and shaping the test approach
+- Authored the QA roadmap (test data optimization, unit, API, and end-to-end testing, CI quality gates, process) after assessing existing test coverage
 
 ### Tanium *(July 2020 – June 2026)*
 
