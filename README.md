@@ -30,7 +30,7 @@ E-commerce platform for collectible card games, comics, and gaming merchandise (
 
 - Serve as the human-in-the-loop quality gate for AI-written code: test each change on the test server, post evidence-backed results, and decide whether it advances to merge or returns for revisions
 - Drive engineering changes through the full agentic pipeline: AI-led planning interview, AI implementation with automated code review and a decisions audit, human review, AI revision passes, and merge
-- Substantially extended the team's AI browser-testing agent: pre-run blocker and prerequisite checks, a first-person test walkthrough, data-safety rules for a shared test database, structured results reporting, and a Playwright MCP mode that reaches third-party payment windows, with a human approving each payment
+- Substantially extended the team's AI browser-testing agent: pre-run blocker and prerequisite checks, a first-person test walkthrough, data-safety rules for test runs, structured results reporting, and a Playwright MCP mode that reaches third-party payment windows, with a human approving each payment
 - Found high-impact defects in payment, gift card, checkout, and order workflows through exploratory testing; traced root causes through the C# source and documented them with commit-pinned evidence
 - Built Claude Code skills for exploratory testing:
     - **Park:** Captures side findings mid-test without derailing the session, then walks them through structured triage (session-based test management)
