@@ -6,21 +6,37 @@ Wake Forest, North Carolina | karl.shultz@gmail.com | [LinkedIn](https://www.lin
 
 Senior QA Engineer with 25+ years of experience across enterprise endpoint security, CI/CD infrastructure, and storage systems. If you're looking for a QA Engineer who finds things other people miss, I am that QA Engineer.
 
-I believe that clever automation and well-thought-out manual testing are both important, and I know when to use each. More recently, I've built a practice of AI-assisted testing with custom Claude skills, and I've found more bugs because of it.
+I believe that clever automation and well-thought-out manual testing are both important, and I know when to use each. I've built a practice of AI-assisted testing with custom Claude skills, and I now test and ship code in an agentic workflow where AI agents plan, build, and test changes, with me as the human check.
 
 ## Skills
 
 **Languages:** Python, Java, Groovy, Bash, PowerShell, Perl, SQL (PostgreSQL, SQLite)
 
-**Test Tools:** pytest, Selenium, TestCafe, JUnit, Postman, Bruno, Jira XRay
+**Test Tools:** pytest, Selenium, TestCafe, JUnit, Postman, Bruno, Jira XRay, Playwright MCP
 
-**CI/CD and Infrastructure:** Jenkins (Pipeline), Docker, AWS EC2, VMware, Hyper-V, Grafana, Git and GitHub, Jira
+**CI/CD and Infrastructure:** Jenkins (Pipeline), Docker, AWS EC2, VMware, Hyper-V, Grafana, Git and GitHub, Bitbucket, Jira, Linear
 
-**AI-Assisted Testing:** Claude, including custom skill development
+**AI and Agentic Workflows:** Claude Code (custom skills, subagents, MCP servers), agentic development and testing pipelines, human-in-the-loop review of AI output
 
 **Methodologies:** Manual, automated, API, UI/browser, regression, smoke, and usability testing; Agile
 
 ## Experience
+
+### Atomic Empire *(August 2026 – Present)*
+
+**Senior QA Engineer**
+
+E-commerce platform for collectible card games, comics, and gaming merchandise (ASP.NET MVC, AWS). The team ships code through an agentic workflow: AI agents plan, implement, review, and test each change, with human approval at every gate.
+
+- Serve as the human-in-the-loop quality gate for AI-written code: test each change on the test server, post evidence-backed results, and decide whether it advances to merge or returns for revisions
+- Drive engineering changes through the full agentic pipeline: AI-led planning interview, AI implementation with automated code review and a decisions audit, human review, AI revision passes, and merge
+- Substantially extended the team's AI browser-testing agent: pre-run blocker and prerequisite checks, a first-person test walkthrough, data-safety rules for test runs, structured results reporting, and a Playwright MCP mode that reaches third-party payment windows, with a human approving each payment
+- Found high-impact defects in payment, gift card, checkout, and order workflows through exploratory testing; traced root causes through the C# source and documented them with commit-pinned evidence
+- Built Claude Code skills for exploratory testing:
+    - **Park:** Captures side findings mid-test without derailing the session, then walks them through structured triage (session-based test management)
+    - **Park Audit:** Read-only AI subagents check each parked finding against the source code, with every code citation script-verified at a pinned commit
+    - **Socratest:** Quizzes the tester on what a change does and how it could fail before testing begins, setting expectations for the change and shaping the test approach
+- Authored the QA roadmap (test data optimization, unit, API, and end-to-end testing, CI quality gates, process) after assessing existing test coverage
 
 ### Tanium *(July 2020 – June 2026)*
 
