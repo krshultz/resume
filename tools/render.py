@@ -35,6 +35,8 @@ table { border-collapse: collapse; }
 /* keep a job's heading attached to its first lines */
 h3 + p, h3 + ul { break-before: avoid; }
 @media print { body { padding: 0; } }
+/* on-screen reading (GitHub Pages): phone-friendly side gutters */
+@media screen and (max-width: 7.6in) { body { padding: 16px; } }
 """
 
 
@@ -49,6 +51,7 @@ def main() -> None:
         )
     html = (
         '<!DOCTYPE html>\n<html lang="en"><head><meta charset="utf-8">\n'
+        '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
         "<title>Karl Shultz — Resume</title>\n"
         f"<style>{CSS}</style></head>\n<body>{body}</body></html>\n"
     )
